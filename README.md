@@ -11,10 +11,10 @@
 ---
 ## Antes
 
-![Datos](Capture2.PNG)
+![Datos](PowerBI/Capture2.PNG)
 
 ## Despues
 
-![Datos](Capture.PNG)
+![Datos](PowerBI/Capture.PNG)
 
 ---
