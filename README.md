@@ -1,4 +1,4 @@
-# Historical sale of video games
+# Historical sale of video games using PowerBI
 
 ## Data visualization in PowerBI. They are historical data of video games sold around the world.
 ---
